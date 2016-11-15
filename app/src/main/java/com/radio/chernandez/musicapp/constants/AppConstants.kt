@@ -5,6 +5,6 @@ package com.radio.chernandez.musicapp.constants
  */
 class AppConstants {
     companion object {
-        val api_key = ""
+        val api_key = "1"
     }
 }
