@@ -1,3 +1,3 @@
 # MusicApp
 
-Example Android app written in Kotlin
+App written in Kotlin
