@@ -1,3 +1,3 @@
 # MusicApp
 
-App written in Kotlin
+App to learn Kotlin programming language
